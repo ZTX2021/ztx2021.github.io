@@ -1,10 +1,10 @@
 # Basic Information 
 title: 
-  - 李忆唐
-  - Yitang Li
+  - 周天行
+  - Tianxing Zhou
 position: Undergraduate Student
 affiliation: Tsinghua University
-email: liyitang475@gmail.com
+email: ztx23@mails.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,18 +14,18 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=rNuJQowAAAAJ&hl=zh-CN&oi=ao
-cv_link: https://docs.google.com/document/d/1kDCCjJJcMdhKW_YKO6FOchhgqiM1t9SxsgyKqpJKQBM/edit?tab=t.0
-github_link: https://github.com/liyitang22
-# linkedin: https://www.linkedin.com/
-rednote: https://www.xiaohongshu.com/user/profile/61f27c65000000001000bf55
-twitter: https://x.com/li_yitang
+google_scholar: https://scholar.google.com/citations?user=YX5_n-YAAAAJ&hl=en
+# cv_link: https://docs.google.com/document/d/1kDCCjJJcMdhKW_YKO6FOchhgqiM1t9SxsgyKqpJKQBM/edit?tab=t.0
+github_link: https://github.com/ZTX2021
+# linkedin: https://www.linkedin.com/in/tianxing-zhou-227504362
+# rednote: https://www.xiaohongshu.com/user/profile/61f27c65000000001000bf55
+twitter: https://x.com/Will_Zhou2025
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/lyt2.png
-favicon: ./assets/img/favicon2.png
-favicon_dark: ./assets/img/favicon2.png
+avatar: ./assets/img/profile_crop.jpg
+favicon: assets\img\goal.png #./assets/img/favicon2.png
+favicon_dark: assets\img\goal.png #./assets/img/favicon2.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -37,7 +37,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
