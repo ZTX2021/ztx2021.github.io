@@ -2,7 +2,7 @@
 <h4 style="margin:0 10px 0;">2025</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a><autocolor>Jiang Nanxiang Scholarship of Tsinghua University <span style="font-family: 'Microsoft YaHei', 'SimHei', sans-serif;">(蒋南翔奖学金)</span> </autocolor></a><strong> <i style="color:#e74d3c"> Named after formal university president </i></strong></li>
+  <li><a><autocolor>Jiang Nanxiang Scholarship of Tsinghua University <span style="font-family: 'Microsoft YaHei', 'SimHei', sans-serif;">(蒋南翔奖学金)</span> </autocolor></a><strong> <i style="color:#e74d3c"> Named after former university president </i></strong></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">2024</h4>
@@ -15,6 +15,6 @@
 
 <h4 style="margin:0 10px 0;">2021</h4>
 
-<ul style="margin:0 0 5px;">
+<!-- <ul style="margin:0 0 5px;">
   <li><a><autocolor>1st Prize, National Olympiad in Informatics in Province</autocolor></a></li>
-</ul>
+</ul> -->

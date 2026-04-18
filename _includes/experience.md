@@ -26,7 +26,7 @@
     <img src="./assets/img/MARSlab_logo.png" style="max-height:100%; max-width:100%; object-fit:contain;">
   </div>
   <div class="col-sm-9" style="position:relative; padding-right:15px; padding-left:20px;">
-    <div class="title">MARS Lab, IIIS, Tsinghua University &amp; Galaxea AI</div>
+    <div class="title"><a href="https://group.iiis.tsinghua.edu.cn/~marslab/#/" target="_blank">MARS Lab</a>, IIIS, Tsinghua University</div>
     <div class="author">Research Assistant &nbsp;·&nbsp; Advised by <a href="https://hangzhaomit.github.io/" target="_blank">Prof. Hang Zhao</a></div>
     <div class="periodical"><em>2025.12 – Present &nbsp;·&nbsp; Beijing, China</em></div>
     <div style="margin-top:4px;">Spatial Understanding and RL for VLA Manipulation.</div>
