@@ -13,7 +13,7 @@
 </ul>
 
 
-<h4 style="margin:0 10px 0;">2021</h4>
+<!-- <h4 style="margin:0 10px 0;">2021</h4> -->
 
 <!-- <ul style="margin:0 0 5px;">
   <li><a><autocolor>1st Prize, National Olympiad in Informatics in Province</autocolor></a></li>
