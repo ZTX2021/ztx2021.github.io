@@ -28,7 +28,7 @@ My research interests center on **robot manipulation, multimodal learning, and r
 ## News
 - **[Jan. 2026]** ViTaS is accepted to **ICRA 2026**!
 
-- **[Nov. 2025]** Honored to receive **Jiang Nanxiang Scholarship(蒋南翔奖学金)** of Tsinghua (Named after former university president)
+- **[Nov. 2025]** Honored to receive **Jiang Nanxiang Scholarship(蒋南翔奖学金)** of Tsinghua (Named after former university president, awarded to **top 1%** of students university-wide)
 
 
 
