@@ -1,9 +1,18 @@
 main:
 
+  - title: "HUG: Human Universal Grasping"
+    authors: Kevin Yuanbo Wu, <strong>Tianxing Zhou</strong>, Isaac Tu, Billy Yan, Irmak Guzey, David Fouhey, Dandan Shan&Dagger;, Lerrel Pinto&Dagger;<br><span style="font-size:85%;color:#666;">&Dagger; Equal advising</span>
+    conference_short: Preprint
+    conference: arXiv Preprint, 2026.
+    pdf: https://arxiv.org/abs/2606.17054
+    project: https://grasping.io/
+    code: https://github.com/KevinyWu/hug
+    video: ./assets/videos/HUG.mp4
+
   - title: "VolumeDP: Modeling Volumetric Representation for Manipulation Policy Learning"
     authors: <strong>Tianxing Zhou</strong>*, Feiyang Xue*, Zhangchen Ye*, Tianyuan Yuan, Hang Zhao, Tao Jiang (* Equal Contribution)
-    conference_short: In submission
-    conference: In Submission
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2026.
     pdf: https://arxiv.org/abs/2603.17720
     # project: https://lecar-lab.github.io/BFM-Zero/
     # code: https://github.com/LeCAR-Lab/BFM-Zero
