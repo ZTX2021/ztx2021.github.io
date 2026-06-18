@@ -30,7 +30,7 @@ My research interests center on **robot manipulation, multimodal learning, and r
 
 - **[Jun. 2026]** **VolumeDP** is accepted to **IROS 2026**! — using BEV representation to resolve the 2D-3D mismatch in robot manipulation!
 
-- **[Jan. 2026]** ViTaS is accepted to **ICRA 2026**!
+- **[Jan. 2026]** **ViTaS** is accepted to **ICRA 2026**!
 
 - **[Nov. 2025]** Honored to receive **Jiang Nanxiang Scholarship(蒋南翔奖学金)** of Tsinghua (Named after former university president, awarded to **top 1%** of students university-wide)
 

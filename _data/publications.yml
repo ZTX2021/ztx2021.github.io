@@ -10,7 +10,7 @@ main:
     video: ./assets/videos/HUG.mp4
 
   - title: "VolumeDP: Modeling Volumetric Representation for Manipulation Policy Learning"
-    authors: <strong>Tianxing Zhou</strong>*, Feiyang Xue*, Zhangchen Ye*, Tianyuan Yuan, Hang Zhao, Tao Jiang (* Equal Contribution)
+    authors: <strong>Tianxing Zhou</strong>*, Feiyang Xue*, Zhangchen Ye*, Tianyuan Yuan, Hang Zhao, Tao Jiang<br><span style="font-size:85%;color:#666;">* Equal contribution</span>
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2026.
     pdf: https://arxiv.org/abs/2603.17720
@@ -22,7 +22,7 @@ main:
     image: ./assets/img/VolumeDP.png
 
   - title: "ViTaS: Visual Tactile Soft Fusion Contrastive Learning for Visuomotor Learning"
-    authors: Yufeng Tian*, Shuiqi Cheng*, Tianming Wei, <strong>Tianxing Zhou</strong>, Yuanhang Zhang, Zixian Liu, Qianwei Han, Zhecheng Yuan, Huazhe Xu (* Equal Contribution)
+    authors: Yufeng Tian*, Shuiqi Cheng*, Tianming Wei, <strong>Tianxing Zhou</strong>, Yuanhang Zhang, Zixian Liu, Qianwei Han, Zhecheng Yuan, Huazhe Xu<br><span style="font-size:85%;color:#666;">* Equal contribution</span>
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026.
     pdf: https://arxiv.org/abs/2602.11643v1
